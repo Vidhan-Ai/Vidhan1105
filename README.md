@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Vidhan1105
-- 👀 I’m interested in Python, Java, Website Development
-- 🌱 I’m currently learning Ethical Hacking
-- �
-- 📫 Reach me at vidhan.11.05.rathore@gmail.com
+- 👋 Hi, I’m Vidhan Singh Rathore
+- 👀 I’m interested in Python, Java, Website Development, AI and Machine Learning 
+- 🌱 I’m currently working towards achieving success in the field of AI
+- 📫 Reach me at vidhan.py@outlook.com
 
 <!---
 Vidhan1105/Vidhan1105 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
